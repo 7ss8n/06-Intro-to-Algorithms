@@ -9,7 +9,6 @@
 * The complexity of conditionals
 * While loops
 * Recursion
-* 
 **In this section, you will learn about:**
 *
 - We use big-O notation in the analysis of algorithms to describe an algorithm’s usage
