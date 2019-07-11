@@ -4,7 +4,7 @@
 
 ## Notes On Big-O Notation
 
-**Objective**
+##Objective
 * Big-O Notation
 * The complexity of conditionals
 * While loops
