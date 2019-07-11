@@ -5,10 +5,6 @@
 ## Sorting Algorithms
 
 **Objectives**
-* 
-* 
-* 
-* 
 
 ---
 
@@ -16,6 +12,7 @@ Sorting refers to arranging data in a particular format. Sorting algorithm speci
 
 The importance of sorting lies in the fact that data searching can be optimized to a very high level, if data is stored in a sorted manner. Sorting is also used to represent data in more readable formats. Below we see five such implementations of sorting in python.
 
+**In this section, you will learn about:**
 * Bubble Sort
 * Merge Sort
 * Insertion Sort
