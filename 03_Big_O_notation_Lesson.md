@@ -1,13 +1,17 @@
 <a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
 
 ---
-## Objective
+## Notes On Big-O Notation
+
+**Objective**
+
+**In this section, you will learn about:**
 * Big-O Notation
 * The complexity of conditionals
 * While loops
 * Recursion
 
-## Notes On Big-O Notation
+
 - We use big-O notation in the analysis of algorithms to describe an algorithm’s usage
     of computational resources, in a way that is independent of computer architecture or
     clock rate.
