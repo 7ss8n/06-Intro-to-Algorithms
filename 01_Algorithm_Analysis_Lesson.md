@@ -8,7 +8,7 @@
 
 **Objectives**
 
-**In this chapter, you will:**:
+**In this chapter, you will:**:rt
 * Understand the process of Algorithm Analysis
 * Explore the characteristics of Algorithm Complexity
   * Space Complexity
