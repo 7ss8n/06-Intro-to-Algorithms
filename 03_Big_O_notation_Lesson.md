@@ -11,7 +11,7 @@
 * While loops
 * Recursion
 
-
+---
 - We use big-O notation in the analysis of algorithms to describe an algorithm’s usage
     of computational resources, in a way that is independent of computer architecture or
     clock rate.
