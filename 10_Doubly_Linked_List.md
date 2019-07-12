@@ -1,4 +1,12 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
 # Python program to create and display a doubly linked list.
+
+**Objective**
+
+**In this section, you will learn about:**
+* Doubly linked list
 In this program, we will create a doubly linked list and print all the nodes present in the list.
 
 Doubly Linked List:
@@ -48,3 +56,4 @@ Output:
 Nodes of doubly linked list: 
 1 2 3 4 5
 ```
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/11_Linked_List_Demo.md"> Continue to Next topic </a>
