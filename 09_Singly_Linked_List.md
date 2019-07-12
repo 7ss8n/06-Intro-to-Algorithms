@@ -66,3 +66,4 @@ Random access is not possible. You must traverse the linked list from the beginn
 Conclusion
 That’s it for this tutorial. In the future tutorials, we will see how to remove an element from the linked list, how to find if an element exists in the linked list etc.
 
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/10_Doubly_Linked_List.md"> Continue to Next topic </a>
