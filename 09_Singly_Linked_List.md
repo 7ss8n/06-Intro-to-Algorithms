@@ -1,4 +1,10 @@
 # Singly Linked List
+**Objective**
+
+**In this section, you will learn about:**
+* Nodes
+* Linked List
+
 To learn about a singly linked list, you should know: 
 
 Python 3
