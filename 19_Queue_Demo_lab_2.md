@@ -1,3 +1,7 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
+
 # CASE STUDY: AN EMERGENCY ROOM SCHEDULER
 As anyone who has been to a busy hospital emergency room knows, people must wait for service. Although everyone might appear to be waiting in the same place, they are actually in separate groups and scheduled according to the seriousness of their condition. This case study develops a program that performs this scheduling with a priority queue.
 
@@ -43,3 +47,5 @@ The class ERModel uses a priority queue to schedule the patients. Its implementa
 
 # STUDENT PERFORMANCE LAB
 Complete the emergency room scheduler application as described in the case study.
+
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/20_Queue_Perf_Lab.md"> Continue to Next topic </a>
