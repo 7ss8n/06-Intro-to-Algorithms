@@ -1,4 +1,14 @@
 # Stacks
+
+**Objective**
+
+**In this section, you will learn about:**
+* Stacks
+* Stack implementation
+* Push operation
+* Pop operation
+* Peek method
+
 A stack is a data structure that is often likened to a stack of plates. 
 If you have just washed a plate, you put it on top of the stack. When you need a plate, 
 you take it off the top of the stack. 
@@ -72,3 +82,5 @@ Removing such a node results in self.top pointing to None:
 As we said earlier, we could also add a peek method. This will just return the top of the stack without removing it from the stack, allowing us to look at the top element without changing the stack itself. This operation is very straightforward. If there is a top element, return its data, otherwise return None (so that the behavior of peek matches that of pop):
 
 ![image](https://user-images.githubusercontent.com/19671036/60817002-71d18680-a160-11e9-821e-282f24e57f95.png)
+
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/15_Stack%20Implementation_Lesson.md"> Continue to Next topic </a>
