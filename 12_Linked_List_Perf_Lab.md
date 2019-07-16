@@ -1,3 +1,6 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
 # Create a  Program to utilize a Doubly Linked List and involve Insertion, Deletion & Display Operations
 
 This is a Python program to create a doubly linked list and implement insertion, deletion and display operations on the list.
@@ -16,3 +19,5 @@ The program creates a doubly linked list and presents the user with a menu to pe
 8. The method remove takes a node as argument and removes it from the list.
 9. The method display traverses the list from the first node and prints the data of each node.
 10. Create an instance of DoublyLinkedList and present the user with a menu to perform operations on the list.
+
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/13_Singly_Linked_List_Lab.md"> Continue to Next topic </a>
