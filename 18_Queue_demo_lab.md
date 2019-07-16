@@ -1,3 +1,7 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
+
 # CASE STUDY: SIMULATING A SUPERMARKET CHECKOUT LINE
 In this case study, you develop a program to simulate supermarket checkout stations. To keep the program simple, some important factors found in a realistic supermarket situation have been omitted; you’re asked to add them back as part of the exercises.
 
@@ -117,4 +121,5 @@ Here is the code for the Customer class:
 
 
 
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/19_Queue_Demo_lab_2.md"> Continue to Next topic </a>
 
