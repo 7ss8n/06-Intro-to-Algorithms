@@ -1,4 +1,13 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
 # Singly linked lists
+**Objective**
+
+**In this section, you will learn about:**
+* Singly linked list
+* Traversing a singly linked list
+* 
 A singly linked list is a list with only one pointer between two successive nodes. It can only be traversed in a single direction, that is, you can go from the first node in the list to the last node, but you cannot move from the last node to the first node.
 
 We can actually use the node class that we created earlier to implement a very simple singly linked list:
@@ -178,3 +187,5 @@ def clear(self):
        self.head = None 
 ```
 In one fell swoop, we orphan all the nodes at the tail and head pointers of the list. This has a ripple effect of orphaning all the nodes in between.
+
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/12_Linked_List_Perf_Lab.md"> Continue to Next topic </a>
