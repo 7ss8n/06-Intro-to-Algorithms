@@ -1,4 +1,9 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
+
 # Building trees
+
 The process of assembling a tree is similar to the process of assembling a linked list. 
 Each constructor invocation builds a single node.
 
@@ -108,3 +113,5 @@ The parameter level keeps track of where we are in the tree. By default, it is i
   1
 ```
 If you look at the output sideways, you see a simplified version of the original figure.
+
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/23_Tree_Led_Demos.md"> Continue to Next topic </a>
