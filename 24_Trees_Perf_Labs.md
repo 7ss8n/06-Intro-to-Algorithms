@@ -1,3 +1,7 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
+
 Performance Lab Set #1
 ![image](https://user-images.githubusercontent.com/19671036/60834274-f5ea3500-a185-11e9-80a1-f5cf6bb9f0c0.png)
 
