@@ -1,4 +1,14 @@
+<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+
+---
+
 # FIFO Queue
+
+**Objective**
+
+**In this section, you will learn about:**
+* FIFO Queue
+
 The python Queue class implements a basic first-in, first-out collection. 
 Items can be added to the end of the container using put(), and removed from the head using get().
 
@@ -36,3 +46,5 @@ Output:
 1
 7
 ```
+
+<a href="https://github.com/Bpmhome/06-Intro-to-Algorithms/blob/master/18_Queue_demo_lab.md"> Continue to Next topic </a>
