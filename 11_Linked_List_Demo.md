@@ -7,7 +7,7 @@
 **In this section, you will learn about:**
 * Singly linked list
 * Traversing a singly linked list
-* 
+
 A singly linked list is a list with only one pointer between two successive nodes. It can only be traversed in a single direction, that is, you can go from the first node in the list to the last node, but you cannot move from the last node to the first node.
 
 We can actually use the node class that we created earlier to implement a very simple singly linked list:
